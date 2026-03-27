@@ -16,7 +16,11 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- C++ - JAVA -Python - JavaScript - SQL
+- C++
+- JAVA
+- Python
+- JavaScript
+- SQL
 
 ### 🌐 Web Development
 - Frontend: HTML, CSS, JavaScript, React
